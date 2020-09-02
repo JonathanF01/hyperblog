@@ -1,0 +1,15 @@
+body{
+ text-align: center;
+ font-family: cursive;   
+ color: firebrick;
+}
+#container{
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid blue;
+
+}
+h1{
+    font: 1em sans-serif;
+}

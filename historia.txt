@@ -1,0 +1,5 @@
+este es un emejplo de archio
+para manejar el control  de vresiones
+llamado git
+tengo 23 años
+naci en mexico
